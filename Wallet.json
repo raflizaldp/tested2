@@ -1,0 +1,24 @@
+{
+
+    "BTC": {
+       "Address": "18961sqv9fPuBcEbbi1gHub8ydWePB8yaG",
+       "Amount": "0.00005"
+      },
+    "LTC": {
+       "Address": "LNRkk6o9h1Rh98sDW8byeH9HbeUHwNohDu",
+       "Amount": "0.0004"
+      },
+    "DOGE": {
+        "Address": "DKa3tbC4saFNHiYbjaVdjvHBggVkEnZLtw",
+        "Amount": "4.000"
+      },
+    "BCH": {
+        "Address": "qry4gzhj8ru9txtu5sd274g4v9q8l22m65djf86c7h",
+        "Amount": "0.0001"
+      },
+    "ZEC": {
+        "Address": "t1fKeDCcxs7hLzgGvveDbZEdGyx1U7j7GrX",
+        "Amount": "0.00035"
+    }
+
+}
